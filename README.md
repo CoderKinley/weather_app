@@ -1,5 +1,16 @@
 # Simple Weather App
 
+# App Screenshots
+
+Here are some snapshots of the app in action:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9f2c2e76-5bc4-481d-8396-ecdfbc886f96" alt="Image 1" width="45%">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/fed54d3e-9f9f-457b-b6c3-909017e281a4" alt="Image 2" width="45%">
+</p>
+
+
 ## Overview
 
 This is a simple weather application built using the OpenWeather API, Lottie animations for enhanced visuals, and geolocation services using the Geolocator and Nominatim (OpenStreetMap) for reverse geocoding. The app provides current weather information based on the user's location and displays it with beautiful animations.
